@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AjayVignesh08
+- 👀 I’m interested in Technology
+- 🌱 I’m currently learning Full Stack
+- 💞️ I’m looking to collaborate on Thinking as of now
+- 📫 How to reach me jajayvignesh08@gmail.com
